@@ -1,0 +1,33 @@
+﻿AppType=StandardJava
+Build1=Default,b4j.example
+Group=Default Group
+Library1=jcore
+Library2=json
+Library3=jrandomaccessfile
+Library4=jdateutils
+Library5=jstringutils
+Library6=byteconverter
+Module1=AWTRIX
+Module2=Toggl
+NumberOfFiles=0
+NumberOfLibraries=6
+NumberOfModules=2
+Version=8.31
+@EndOfDesignText@
+
+#Region Project Attributes 
+	#LibraryName:Toggl
+#End Region
+
+Sub Process_Globals
+	
+End Sub
+
+Sub AppStart (Args() As String)
+	
+End Sub
+
+'Return true to allow the default exceptions handler to handle the uncaught exception.
+Sub Application_Error (Error As Exception, StackTrace As String) As Boolean
+	Return True
+End Sub

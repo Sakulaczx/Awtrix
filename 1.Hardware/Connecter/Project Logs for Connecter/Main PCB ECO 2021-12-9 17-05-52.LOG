@@ -1,0 +1,240 @@
+Added Component: Designator=C3(C0603)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "UMK107B104KAHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C386152"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "UMK107B104KAHT"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP-TH_BD10.0-P5.00-D1.0-FD)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ValuePro"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "1000uF 16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C43909"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "1000uF 16V"; VariantName = "[No Variations]"
+Added Component: Designator=CN4(HDR-TH_2P-P2.54-V)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C160332"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RE-H022TD-1190 (LF)(SN)"; VariantName = "[No Variations]"
+Added Component: Designator=CN5(HDR-TH_2P-P2.54-V)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C160332"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RE-H022TD-1190 (LF)(SN)"; VariantName = "[No Variations]"
+Added Component: Designator=CN6(HDR-TH_2P-P2.54-V)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C160332"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RE-H022TD-1190 (LF)(SN)"; VariantName = "[No Variations]"
+Added Component: Designator=DC2(DC-IN-TH_DC005)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Shenzhen Cankemeng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C132516"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "dc-005 5.5-2.0"; VariantName = "[No Variations]"
+Added Component: Designator=H4(HDR-TH_4P-P2.54-V)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ZHENGLING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "Z-211-0411-0021-001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C152150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "Z-211-0411-0021-001"; VariantName = "[No Variations]"
+Added Component: Designator=H5(HDR-TH_4P-P2.54-V)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ZHENGLING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "Z-211-0411-0021-001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C152150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "Z-211-0411-0021-001"; VariantName = "[No Variations]"
+Added Component: Designator=H6(HDR-TH_5P-P2.54-V)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "77311-462K05LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C180219"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "77311-462K05LF"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-TH_BD1.7-L3.5-P7.50-D0.5)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TyoHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RN 1/8W 1K F T/B A1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C433503"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RN 1/8W 1K F T/B A1"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES-TH_BD1.7-L3.5-P7.50-D0.5)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TyoHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RN 1/8W 1K F T/B A1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C433503"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RN 1/8W 1K F T/B A1"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES-TH_BD1.7-L3.5-P7.50-D0.5)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TyoHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RN 1/8W 1K F T/B A1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C433503"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RN 1/8W 1K F T/B A1"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-TH_L5.1-W4.3-P3.40-D0.5)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Senba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "GL5528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C125627"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "GL5528"; VariantName = "[No Variations]"
+Added Component: Designator=U7(DFPLAYER MINI)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "adrirobot"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "sourceId"; Value = "cKDVP7pjB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "DFPlayer Mini"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "timeStamp"; Value = "1464108735"; VariantName = "[No Variations]"
+Added Component: Designator=U8(HDR-TH_3P-P2.54-V)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RE-H032TD-1130"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C265013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RE-H032TD-1130"; VariantName = "[No Variations]"
+Added Component: Designator=U9(HDR-TH_3P-P2.54-V)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RE-H032TD-1130"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C265013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RE-H032TD-1130"; VariantName = "[No Variations]"
+Added Component: Designator=U10(HDR-TH_3P-P2.54-V)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RE-H032TD-1130"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C265013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RE-H032TD-1130"; VariantName = "[No Variations]"
+Added Component: Designator=U11(HDR-TH_3P-P2.54-V)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RE-H032TD-1130"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C265013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RE-H032TD-1130"; VariantName = "[No Variations]"
+Added Component: Designator=WEMOS2(WEMOS_D1_MINI_V2.3.0)
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "WEMOS-D1-MINI"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C3-2
+Added Pin To Net: NetName=+5 Pin=C4-1
+Added Pin To Net: NetName=+5 Pin=CN4-1
+Added Pin To Net: NetName=+5 Pin=DC2-1
+Added Pin To Net: NetName=+5 Pin=H5-1
+Added Pin To Net: NetName=+5 Pin=U7-1
+Added Pin To Net: NetName=+5 Pin=U8-1
+Added Pin To Net: NetName=+5 Pin=WEMOS2-5V
+Added Net: Name=+5
+Added Pin To Net: NetName=3V3 Pin=CN6-1
+Added Pin To Net: NetName=3V3 Pin=H4-2
+Added Pin To Net: NetName=3V3 Pin=H6-1
+Added Pin To Net: NetName=3V3 Pin=R8-1
+Added Pin To Net: NetName=3V3 Pin=U9-1
+Added Pin To Net: NetName=3V3 Pin=U10-1
+Added Pin To Net: NetName=3V3 Pin=U11-1
+Added Pin To Net: NetName=3V3 Pin=WEMOS2-3V3
+Added Net: Name=3V3
+Added Pin To Net: NetName=BUTTON1 Pin=U9-2
+Added Pin To Net: NetName=BUTTON1 Pin=WEMOS2-D0
+Added Net: Name=BUTTON1
+Added Pin To Net: NetName=BUTTON2 Pin=U10-2
+Added Pin To Net: NetName=BUTTON2 Pin=WEMOS2-D8
+Added Net: Name=BUTTON2
+Added Pin To Net: NetName=BUTTON3 Pin=U11-2
+Added Pin To Net: NetName=BUTTON3 Pin=WEMOS2-D4
+Added Net: Name=BUTTON3
+Added Pin To Net: NetName=DF_RX Pin=R5-1
+Added Pin To Net: NetName=DF_RX Pin=WEMOS2-D5
+Added Net: Name=DF_RX
+Added Pin To Net: NetName=DF_TX Pin=R6-1
+Added Pin To Net: NetName=DF_TX Pin=WEMOS2-D7
+Added Net: Name=DF_TX
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=CN4-2
+Added Pin To Net: NetName=GND Pin=CN6-2
+Added Pin To Net: NetName=GND Pin=DC2-2
+Added Pin To Net: NetName=GND Pin=DC2-3
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H5-2
+Added Pin To Net: NetName=GND Pin=H6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=GND Pin=U7-10
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=GND Pin=U11-3
+Added Pin To Net: NetName=GND Pin=WEMOS2-GND
+Added Net: Name=GND
+Added Pin To Net: NetName=INT Pin=H6-5
+Added Pin To Net: NetName=INT Pin=WEMOS2-D6
+Added Net: Name=INT
+Added Pin To Net: NetName=LDR Pin=R7-1
+Added Pin To Net: NetName=LDR Pin=R8-2
+Added Pin To Net: NetName=LDR Pin=WEMOS2-A0
+Added Net: Name=LDR
+Added Pin To Net: NetName=NetCN5_1 Pin=CN5-1
+Added Pin To Net: NetName=NetCN5_1 Pin=U7-8
+Added Net: Name=NetCN5_1
+Added Pin To Net: NetName=NetCN5_2 Pin=CN5-2
+Added Pin To Net: NetName=NetCN5_2 Pin=U7-6
+Added Net: Name=NetCN5_2
+Added Pin To Net: NetName=NetH5_3 Pin=H5-3
+Added Pin To Net: NetName=NetH5_3 Pin=WEMOS2-TX
+Added Net: Name=NetH5_3
+Added Pin To Net: NetName=NetH5_4 Pin=H5-4
+Added Pin To Net: NetName=NetH5_4 Pin=WEMOS2-RX
+Added Net: Name=NetH5_4
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U7-2
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U7-3
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=RGB_LED Pin=U8-2
+Added Pin To Net: NetName=RGB_LED Pin=WEMOS2-D2
+Added Net: Name=RGB_LED
+Added Pin To Net: NetName=SCL Pin=H4-4
+Added Pin To Net: NetName=SCL Pin=H6-3
+Added Pin To Net: NetName=SCL Pin=WEMOS2-D1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=H4-3
+Added Pin To Net: NetName=SDA Pin=H6-4
+Added Pin To Net: NetName=SDA Pin=WEMOS2-D3
+Added Net: Name=SDA
+Added Class: Name=Main
+Added Room: Name=Main
