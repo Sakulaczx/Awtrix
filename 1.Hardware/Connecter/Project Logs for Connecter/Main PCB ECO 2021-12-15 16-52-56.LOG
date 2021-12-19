@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=LDR Pin=R7-1
-Removed Pin From Net: NetName=LDR Pin=R8-2
-Change Component Footprint: Designator=C4 Old Footprint=CAP-SMD_BD6.3-L6.6-W6.6-LS7.2-FD New Footprint=1000uf25v
-Change Net Color : Old Net Color=RGB(231, 236, 115) New Net Color=Default
-Added Pin To Net: NetName=NetR7_1 Pin=R7-1
-Added Pin To Net: NetName=NetR7_1 Pin=R8-2
-Added Net: Name=NetR7_1
-Added Room: Name=Main
