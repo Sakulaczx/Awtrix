@@ -6,7 +6,7 @@
 
 **官网GIT：** https://github.com/awtrix/AWTRIX2.0-Controller  
 
-**B站教程：** 
+**B站教程：** https://www.bilibili.com/video/BV18Y411W7Qt
 
 ## 0. 关于本项目
 
